@@ -1,0 +1,7 @@
+{
+  "name": "NeighborJob",
+  "description": "A hyper-local marketplace connecting neighbors for micro-tasks and professional services within walking distance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
